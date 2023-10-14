@@ -28,4 +28,4 @@ Before you begin, ensure you have the following tools and software installed on 
 
 2. Example Output
 - Enter a word: Hello
-  Length of the word: 5
+- Length of the word: 5
